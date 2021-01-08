@@ -1,13 +1,14 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './Navbar';
 
 function App() {
   return (
     <div>
-      <h1>Hello Morris</h1>
+      <Navbar />
     </div>
-  );
+  )
 }
 
 export default App;
