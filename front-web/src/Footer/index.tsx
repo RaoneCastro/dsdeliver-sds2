@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './styles.css';
 import {ReactComponent as Insta} from './instagram.svg'
 import {ReactComponent as Tube} from './youtube.svg'
